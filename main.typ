@@ -156,7 +156,6 @@ Nach voriger Auswertung ergeben sich grob folgende Anforderungen die bearbeitet 
 - Ananas
 - Apfel
 - Birne
-@buch1
 
 = Technische Struktur
 #figure(
@@ -199,7 +198,7 @@ Nach voriger Auswertung ergeben sich grob folgende Anforderungen die bearbeitet 
 #bibliography(
   "sources.bib",
   title: "Literaturverzeichnis",
-  style: "csl/duale-hochschule-gera-eisenach.csl"
+  style: "csl/duale-hochschule-gera-eisenach-fussnote.csl"
 )
 
 #pagebreak()
